@@ -22,7 +22,7 @@ hr {
 header.startup {
   background-position: center;
   background-image: url("header.jpg");
-  background-size: cover;
+  background-size: contain;
   height: 100%;
 }
 
